@@ -701,4 +701,4 @@ var archivedImages = [
                 ]
             }
         ]
-    
+    };
