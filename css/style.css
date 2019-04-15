@@ -99,16 +99,3 @@
   width: 47%;
   margin: 12px;
 }
-
-
-@media only screen and (max-width: 1100px) {
-    .row {
-      width: 95%;
-    }
-    .entry:before {
-    font-size: 2rem;
-    width: 20px;
-    height: 20px;
-    line-height: 20px;
-    padding: 20px 20px;
-  }
